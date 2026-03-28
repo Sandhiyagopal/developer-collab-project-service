@@ -1,2 +1,2 @@
 # developer-collab-project-service
-project service for developer collabration system
+project service for developer collaboration system
